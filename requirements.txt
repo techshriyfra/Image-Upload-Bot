@@ -1,6 +1,5 @@
+Flask
 pyrogram
 tgcrypto
 telegraph
-motor
-aiofiles
-dnspython
+uvloop
